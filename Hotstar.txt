@@ -1,0 +1,8 @@
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1 agl.hotstar.com
+127.0.0.1 segment.hotstar.com
+127.0.0.1 hotstar.worldgravity.com
+127.0.0.1 hotstar.pubnub.net
+127.0.0.1 agl-intl.hotstar.com
